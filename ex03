@@ -1,0 +1,4 @@
+Program
+  0: beq  $27, $11, -6
+Output
+Registers After Execution
